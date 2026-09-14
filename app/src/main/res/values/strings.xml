@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Jannat AI</string>
+    <string name="app_name_bengali">জান্নাত এআই</string>
+    <string name="tagline">বাংলা ভয়েস অ্যাসিস্ট্যান্ট</string>
+
+    <!-- UI Labels -->
+    <string name="status_ready">প্রস্তুত • কথা বলতে মাইক চাপুন</string>
+    <string name="status_listening">শুনছি... কথা বলুন</string>
+    <string name="status_processing">নির্দেশ বিশ্লেষণ করা হচ্ছে...</string>
+    <string name="status_executing">কার্যকর করা হচ্ছে...</string>
+
+    <!-- Buttons -->
+    <string name="btn_enable_accessibility">Accessibility চালু করুন</string>
+    <string name="btn_settings">সেটিংস</string>
+    <string name="btn_diagnostics">ফোন ডায়াগনস্টিকস</string>
+    <string name="btn_mic_talk">কথা বলুন</string>
+    <string name="btn_mic_stop">থামান</string>
+    <string name="btn_fix">সমাধান</string>
+    <string name="btn_open_settings">সেটিংস খুলুন</string>
+
+    <!-- Status Chips -->
+    <string name="chip_mic_ok">মাইক্রোফোন: সচল</string>
+    <string name="chip_mic_missing">মাইক্রোফোন: অনুমতি প্রয়োজন</string>
+    <string name="chip_access_ok">Accessibility: সচল</string>
+    <string name="chip_access_missing">Accessibility: বন্ধ</string>
+
+    <!-- Titles -->
+    <string name="title_diagnostics">ফোন ডায়াগনস্টিকস ও নিরাপত্তা</string>
+    <string name="title_settings">জান্নাত এআই সেটিংস</string>
+
+    <!-- Accessibility Description -->
+    <string name="accessibility_service_description">জান্নাত এআই আপনার স্পষ্ট নির্দেশে ব্যাক, হোম, স্ক্রল এবং লক স্ক্রিন অ্যাকশন পরিচালনা করে। এটি নিজে থেকে কোনো কাজ করে না।</string>
+
+    <!-- Prompts & Responses -->
+    <string name="greeting_initial">আসসালামু আলাইকুম! আমি জান্নাত। আপনাকে কীভাবে সাহায্য করতে পারি?</string>
+    <string name="msg_app_not_found">দুঃখিত, এই অ্যাপটি আপনার ফোনে ইনস্টল করা নেই।</string>
+    <string name="msg_action_executed">নির্দেশ সম্পন্ন হয়েছে।</string>
+    <string name="msg_accessibility_required">এই কাজটি করতে Accessibility সার্ভিস সক্রিয় থাকা প্রয়োজন।</string>
+    <string name="msg_mic_permission_required">ভয়েস নির্দেশনার জন্য মাইক্রোফোন পারমিশন প্রয়োজন।</string>
+
+    <!-- Friendly Check-in Phrases -->
+    <string name="phrase_checkin_1">কেমন আছেন? আজকের দিনটা কেমন যাচ্ছে?</string>
+    <string name="phrase_checkin_2">খাওয়াদাওয়া করেছেন তো?</string>
+    <string name="phrase_checkin_3">এখন কী কাজ করছেন? কোনো সাহায্যে লাগলে বলবেন।</string>
+    <string name="phrase_checkin_4">সব ঠিকঠাক চলছে তো?</string>
+</resources>

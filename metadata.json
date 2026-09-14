@@ -1,0 +1,11 @@
+{
+  "name": "Remix Ayesha AI",
+  "description": "A hyper-realistic, interactive 3D virtual companion offering fluid, human-like video conversations in Bangla, Banglish, and English.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
